@@ -20,7 +20,7 @@ I implemented a custom organization system designed to "fish out" high-priority 
     * **Crypto (1,573 emails):** Dedicated space for digital asset tracking and exchanges.
     * **Scholarship (664 emails):** Grouped educational opportunities for quick reference.
     * **Shopping (352 emails):** Organized receipts and order tracking
- 
-    * ## **Client Feedback**
+
+* ## **Client Feedback**
 
 > "I needed my emails organized without losing any data. This system did exactly that. My most important emails are now labeled and easy to find"
