@@ -21,6 +21,6 @@ I implemented a custom organization system designed to "fish out" high-priority 
     * **Scholarship (664 emails):** Grouped educational opportunities for quick reference.
     * **Shopping (352 emails):** Organized receipts and order tracking
 
-* ## **Client Feedback**
+## **Client Feedback**
 
 > "I needed my emails organized without losing any data. This system did exactly that. My most important emails are now labeled and easy to find"
