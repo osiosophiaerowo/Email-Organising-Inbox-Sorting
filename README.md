@@ -24,3 +24,8 @@ I implemented a custom organization system designed to "fish out" high-priority 
 ## **Client Feedback**
 
 > "I needed my emails organized without losing any data. This system did exactly that. My most important emails are now labeled and easy to find"
+
+## Inbox - Sorting Preview
+
+<img width="1365" height="615" alt="Before and After" src="https://github.com/user-attachments/assets/af8c691e-cb71-462d-9edc-c024c9a475cd" />
+
